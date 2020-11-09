@@ -4,7 +4,7 @@ I wrote this simple project to show how to structure a basic API using Python, D
 
 # How to run
 
-This project is "deployement ready". You should be able to run it executing the command `docker-compose up` (Please first install docker & docker-compose)
+This project is "deployment ready". You should be able to run it executing the command `docker-compose up` (Please first install docker & docker-compose)
 
 # License
 
